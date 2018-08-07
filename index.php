@@ -1,4 +1,4 @@
-adiciona
+kinghost
 teste
 <?php include("header.php"); ?>
 			<h1>Bem Vindo!</h1>	
